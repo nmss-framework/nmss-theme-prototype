@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rlucha/nmss-theme-prototype.git"
+    "url": "https://github.com/nmss-framework/nmss-theme-prototype.git"
   },
   "author": "Roberto Lucha <rlucha@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rlucha/nmss-theme-prototype/issues"
+    "url": "https://github.com/nmss-framework/nmss-theme-prototype/issues"
   },
-  "homepage": "https://github.com/rlucha/nmss-theme-prototype"
+  "homepage": "https://github.com/nmss-framework/nmss-theme-prototype"
 }
