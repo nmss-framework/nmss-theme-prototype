@@ -2,13 +2,10 @@
 
     $alert-padding:                             1rem;
     $alert-border:                              1px solid $color-thin-shadow;
-    $alert-color:                               $color-primary;
+    $alert-shadow:								0 1px 1px 0px rgba(0,0,0,0.1);
+    $alert-color:                               $type-color-primary;
 
-    $alert--success-color:                      $type-color-primary;
-    $color--success-background:                 $color-success;
-
-    $alert--warning-color:                      $type-color-primary;
-    $color--warning-background:                 $color-warning;
-
-    $alert--error-color:                        $type-color-primary;
-    $color--error-background:                   $color-error;
+    $alert--success-background:                 $color-success;
+    $alert--warning-background:                 $color-warning;  
+    $alert--error-background:                   $color-error;
+    $alert--info-background:					$color-info;
